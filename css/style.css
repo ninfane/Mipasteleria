@@ -33,7 +33,9 @@ h6,
 body {
   overflow-x: hidden;
 }
-
+.text-tale {
+  color: #00c178 ; 
+}
 img {
   max-width: 100%;
   height: auto;
